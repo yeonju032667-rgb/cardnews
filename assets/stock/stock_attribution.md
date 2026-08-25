@@ -10,3 +10,15 @@
 | court_justice.jpg | https://commons.wikimedia.org/wiki/File:Scales_of_Justice_(15030066870).jpg | CC-BY-SA 2.0 | North Charleston (Flickr) |
 | police_generic.jpg | https://commons.wikimedia.org/wiki/File:NYPD_Police_Car.jpg | CC-BY 2.0 | William Hoiles |
 | industry_factory.jpg | https://commons.wikimedia.org/wiki/File:002_Production_line_-_car_assembly_line_in_General_Motors_Manufacturing_Poland_-_Gliwice,_Poland.jpg | CC-BY 3.0 | Marek Ślusarczyk |
+| aviation_airport.jpg | https://commons.wikimedia.org/wiki/File:Incheon_International_Airport_Air_Traffic_Control_tower_and_terminal_2.jpg | CC-BY-SA 4.0 | Christophe95 |
+| tech_semiconductor.jpg | https://commons.wikimedia.org/wiki/File:Building_of_Taiwan_Semiconductor_Manufacturing_Fab_12B_at_dusk1.jpg | CC-BY 2.0 | 曾 成訓 (Zeng Chengxun) |
+| harbor_shipping.jpg | https://commons.wikimedia.org/wiki/File:Busan_Port.JPG | CC-BY-SA 3.0 | Jpatokal |
+| agriculture_farm.jpg | https://commons.wikimedia.org/wiki/File:Korea-Gyeongju-Rice_paddy_field-01.jpg | CC-BY-SA 2.0 | riNux |
+| international_flags.png | https://commons.wikimedia.org/wiki/File:Flag_Map_of_The_World.png | CC-BY-SA 4.0 | Cookie030307 |
+| concert_stage.jpg | https://commons.wikimedia.org/wiki/File:Chris_Stapleton_Concert_(48519655661).jpg | CC-BY 2.0 | Steve Kwak / Maryland GovPics |
+| health_hospital.jpg | https://commons.wikimedia.org/wiki/File:Norton_Children's_Hospital_Exterior.jpg | CC-BY-SA 4.0 | Alexismessmer |
+| disaster_flood.jpg | https://commons.wikimedia.org/wiki/File:Flooding_on_FDR_Drive,_following_Hurricane_Sandy.jpg | CC-BY 2.0 | Beth Carey |
+
+## Failed (no local file — candidates 404'd or were rate-limited on every retry)
+- sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
+- sports_soccer (attempted: Ewood Park, CC0, D6strrrrr)
