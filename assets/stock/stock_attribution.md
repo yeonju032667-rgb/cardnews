@@ -21,6 +21,9 @@
 | disaster_nepal_flood.jpg | https://commons.wikimedia.org/wiki/File:Flood_in_Biratnagar_2019.jpg | CC-BY-SA 4.0 | Sandeep Raut |
 | court_korea_constitutional.jpg | https://commons.wikimedia.org/wiki/File:Constitutional_Court_of_Korea_(2015).jpg | CC-BY-SA 2.0 | Wei-Te Wong |
 | politics_assembly_conference.jpg | https://commons.wikimedia.org/wiki/File:Main_conference_room_of_South_korean_national_assembly_building.JPG | CC-BY-SA 3.0 | Dmthoth |
+| politics_govcomplex_seoul.jpg | https://commons.wikimedia.org/wiki/File:Government_Complex_Seoul_Main_Building.jpg | CC-BY 4.0 | Seoul Institute (chaisook) |
+| weather_rain_seoul.jpg | https://commons.wikimedia.org/wiki/File:Raining_Evening_(108260953).jpeg | CC-BY-SA 3.0 | Joon Kyu Park |
+| labor_strike_kctu.jpg | https://commons.wikimedia.org/wiki/File:2013-12-28_KCTU_General_Strike_Flags.jpg | Public Domain | Salamander724 |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
