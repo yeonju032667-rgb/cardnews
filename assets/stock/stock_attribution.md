@@ -33,6 +33,15 @@
 | realestate_seoul_aerial.jpg | https://commons.wikimedia.org/wiki/File:Seoul_Aerial_Shot_06.jpg | CC-BY-SA 2.0 | Jeon Han (KOCIS) |
 | sports_klpga_golf.jpg | https://commons.wikimedia.org/wiki/File:최혜진_프로.jpg | CC-BY 3.0 | 골까튜브 |
 | politics_leejaemyung_portrait.jpg | https://commons.wikimedia.org/wiki/File:Lee_Jae-myung%27s_Portrait_(2025.6.4).jpg | CC-BY-SA 2.0 | Yoon Jongkyu |
+| disaster_nepal_gyirong.jpg | https://commons.wikimedia.org/wiki/File:Mudslide_at_Gyirong_Port_2_(screenshot).png | Public Domain | Unknown |
+| weather_flood_hanriver.jpg | https://commons.wikimedia.org/wiki/File:Floods_in_Han_river_20220810.jpg | CC-BY-SA 4.0 | YaMaDa |
+| tech_cleanroom_wafer.jpg | https://commons.wikimedia.org/wiki/File:Cleanroom_suit.jpg | CC-BY 2.0 | Steve Jurvetson |
+| transport_korail_freight.jpg | https://commons.wikimedia.org/wiki/File:Korail-Car-20416.jpg | Public Domain | IRTC1015 |
+| sports_seoul_worldcup_stadium.jpg | https://commons.wikimedia.org/wiki/File:Seoul_World_Cup_Stadium_01.jpg | CC-BY-SA 4.0 | Exj |
+| realestate_nowon_apartment.jpg | https://commons.wikimedia.org/wiki/File:Nowon-gu_Apartment_buildings_with_Lotte_World_Tower.jpg | CC-BY-SA 3.0 | Ox1997cow |
+| market_jeju_dongmun.jpg | https://commons.wikimedia.org/wiki/File:Jeju_Dongmun_Traditional_Market_01.jpg | CC-BY-SA 4.0 | Grapesurgeon |
+| memorial_candle.jpg | https://commons.wikimedia.org/wiki/File:Burning_candle.jpg | Public Domain | Photos-public-domain.com |
+| politics_assembly_capitol.jpg | https://commons.wikimedia.org/wiki/File:Republic_of_Korea_capitol.jpg | CC-BY-SA 4.0 | Cjb8293 |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
