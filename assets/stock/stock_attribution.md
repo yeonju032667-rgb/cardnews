@@ -27,6 +27,12 @@
 | politics_trump_portrait.jpg | https://commons.wikimedia.org/wiki/File:President-Donald-Trump-Official-Presidential-Portrait.png | Public Domain | Daniel Torok (White House) |
 | economy_oil_pumpjack.jpg | https://commons.wikimedia.org/wiki/File:Pumpjack,_Glenn_Pool_oil_field_OK.jpg | CC-BY 2.0 | roy.luck |
 | landscape_jeju_coast.jpg | https://commons.wikimedia.org/wiki/File:Jeju_Island_rocks_-_panoramio.jpg | CC-BY 3.0 | gary4now |
+| disaster_nepal_bagmati.jpg | https://commons.wikimedia.org/wiki/File:Bagmati_River_Flood.jpg | CC-BY-SA 4.0 | Gaurav Dhwaj Khadka |
+| weather_flood_sungsu.jpg | https://commons.wikimedia.org/wiki/File:Sungsu_bicycle_road_20220812.jpg | CC-BY-SA 4.0 | Yurume |
+| industry_kia_factory.jpg | https://commons.wikimedia.org/wiki/File:Kia_Motors_South_Korea_factory.jpg | CC-BY-SA 4.0 | Kgw5360 |
+| realestate_seoul_aerial.jpg | https://commons.wikimedia.org/wiki/File:Seoul_Aerial_Shot_06.jpg | CC-BY-SA 2.0 | Jeon Han (KOCIS) |
+| sports_klpga_golf.jpg | https://commons.wikimedia.org/wiki/File:최혜진_프로.jpg | CC-BY 3.0 | 골까튜브 |
+| politics_leejaemyung_portrait.jpg | https://commons.wikimedia.org/wiki/File:Lee_Jae-myung%27s_Portrait_(2025.6.4).jpg | CC-BY-SA 2.0 | Yoon Jongkyu |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
