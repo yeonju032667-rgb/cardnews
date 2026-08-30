@@ -24,6 +24,9 @@
 | politics_govcomplex_seoul.jpg | https://commons.wikimedia.org/wiki/File:Government_Complex_Seoul_Main_Building.jpg | CC-BY 4.0 | Seoul Institute (chaisook) |
 | weather_rain_seoul.jpg | https://commons.wikimedia.org/wiki/File:Raining_Evening_(108260953).jpeg | CC-BY-SA 3.0 | Joon Kyu Park |
 | labor_strike_kctu.jpg | https://commons.wikimedia.org/wiki/File:2013-12-28_KCTU_General_Strike_Flags.jpg | Public Domain | Salamander724 |
+| politics_trump_portrait.jpg | https://commons.wikimedia.org/wiki/File:President-Donald-Trump-Official-Presidential-Portrait.png | Public Domain | Daniel Torok (White House) |
+| economy_oil_pumpjack.jpg | https://commons.wikimedia.org/wiki/File:Pumpjack,_Glenn_Pool_oil_field_OK.jpg | CC-BY 2.0 | roy.luck |
+| landscape_jeju_coast.jpg | https://commons.wikimedia.org/wiki/File:Jeju_Island_rocks_-_panoramio.jpg | CC-BY 3.0 | gary4now |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
