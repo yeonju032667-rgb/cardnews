@@ -42,6 +42,15 @@
 | market_jeju_dongmun.jpg | https://commons.wikimedia.org/wiki/File:Jeju_Dongmun_Traditional_Market_01.jpg | CC-BY-SA 4.0 | Grapesurgeon |
 | memorial_candle.jpg | https://commons.wikimedia.org/wiki/File:Burning_candle.jpg | Public Domain | Photos-public-domain.com |
 | politics_assembly_capitol.jpg | https://commons.wikimedia.org/wiki/File:Republic_of_Korea_capitol.jpg | CC-BY-SA 4.0 | Cjb8293 |
+| disaster_nepal_thamel.jpg | https://commons.wikimedia.org/wiki/File:Flooding_in_Thamel_(4931883120).jpg | CC-BY 2.0 | Felix Dance |
+| politics_assembly_zelensky_speech.jpg | https://commons.wikimedia.org/wiki/File:President_of_Ukraine_Volodymyr_Zelenskyy_makes_a_speech_in_the_National_Assembly_of_the_Republic_of_Korea.jpg | CC-BY 4.0 | Presidential Office of Ukraine |
+| trade_shanghai_port.jpg | https://commons.wikimedia.org/wiki/File:Port_of_Shanghai,_Yangshan_Deep-water_Harbour_Zone,_02.jpg | Public Domain | Alex Needham |
+| realestate_seoul_apt_generic.jpg | https://commons.wikimedia.org/wiki/File:Seoul_Apartment_Buildings_(1509272335).jpg | CC-BY 2.0 | Francisco Anzola |
+| finance_kb_bank_branch.jpg | https://commons.wikimedia.org/wiki/File:Kookmin_Bank_Okcheon_Branch_20240730.jpg | CC0 | LandAndTree |
+| realestate_seoul_night_skyline.jpg | https://commons.wikimedia.org/wiki/File:Seoul_night_skyline_2018.jpg | CC-BY-SA 4.0 | Takipoint123 |
+| weather_seoul_night.jpg | https://commons.wikimedia.org/wiki/File:Seoul_at_Night.jpg | CC-BY-SA 2.0 | Philippe Teuwen |
+| sports_son_heungmin.jpg | https://commons.wikimedia.org/wiki/File:BFA_2023_-2_Heung-Min_Son_(cropped).jpg | CC-BY-SA 4.0 | Alex Morton/THFC |
+| economy_yeouido_63building.jpg | https://commons.wikimedia.org/wiki/File:63Building_Yeouido-dong_Seoul.jpg | CC-BY-SA 2.0 | d. FUKA |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
