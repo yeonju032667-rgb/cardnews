@@ -51,6 +51,13 @@
 | weather_seoul_night.jpg | https://commons.wikimedia.org/wiki/File:Seoul_at_Night.jpg | CC-BY-SA 2.0 | Philippe Teuwen |
 | sports_son_heungmin.jpg | https://commons.wikimedia.org/wiki/File:BFA_2023_-2_Heung-Min_Son_(cropped).jpg | CC-BY-SA 4.0 | Alex Morton/THFC |
 | economy_yeouido_63building.jpg | https://commons.wikimedia.org/wiki/File:63Building_Yeouido-dong_Seoul.jpg | CC-BY-SA 2.0 | d. FUKA |
+| politics_sejong_govcomplex.jpg | https://commons.wikimedia.org/wiki/File:Government_Complex_Sejong_(N).jpg | CC-BY-SA 4.0 | Minseong Kim |
+| tech_skhynix_chip.jpg | https://commons.wikimedia.org/wiki/File:SK_hynix_H5TQ2G63FFR-PBC_20150616.jpg | CC-BY-SA 4.0 | Solomon203 |
+| industry_posco_gwangyang.jpg | https://commons.wikimedia.org/wiki/File:GwangyangIronworks.jpg | Public Domain | Kim So-min |
+| transport_gyeongbu_expressway.jpg | https://commons.wikimedia.org/wiki/File:Gyeongbu_Expressway_Bus_Only_Lane.JPG | CC-BY 3.0 | Xxchangwoo0120xx |
+| disaster_nepal_audha.jpg | https://commons.wikimedia.org/wiki/File:Audha_river_flood2_2073.jpg | CC-BY-SA 4.0 | Sgt gh |
+| international_putin_kim.jpg | https://commons.wikimedia.org/wiki/File:Vladimir_Putin_and_Kim_Jong-un_(2024-06-19)_03.jpg | CC-BY 4.0 | Kremlin.ru |
+| sports_kimhyojoo.jpg | https://commons.wikimedia.org/wiki/File:김효주_골프_선수.jpg | CC-BY 3.0 | 올댓골프리뷰 |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
