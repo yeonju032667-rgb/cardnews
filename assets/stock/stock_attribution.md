@@ -58,6 +58,15 @@
 | disaster_nepal_audha.jpg | https://commons.wikimedia.org/wiki/File:Audha_river_flood2_2073.jpg | CC-BY-SA 4.0 | Sgt gh |
 | international_putin_kim.jpg | https://commons.wikimedia.org/wiki/File:Vladimir_Putin_and_Kim_Jong-un_(2024-06-19)_03.jpg | CC-BY 4.0 | Kremlin.ru |
 | sports_kimhyojoo.jpg | https://commons.wikimedia.org/wiki/File:김효주_골프_선수.jpg | CC-BY 3.0 | 올댓골프리뷰 |
+| international_hormuz_navy.jpg | https://commons.wikimedia.org/wiki/File:Flickr_-_Official_U.S._Navy_Imagery_-_U.S._Navy_ships_transit_the_Strait_of_Hormuz..jpg | Public Domain | Alex R. Forster / U.S. Navy |
+| economy_kospi_exchange.jpg | https://commons.wikimedia.org/wiki/File:Korea_exchange.JPG | CC-BY-SA 3.0 | Hyolee2 |
+| industry_posco_pohang.jpg | https://commons.wikimedia.org/wiki/File:Pohang_Korea_ISS020-E-09011_lrg.jpg | Public Domain | NASA (ISS Expedition 20) |
+| realestate_jamsil_apt.jpg | https://commons.wikimedia.org/wiki/File:Jamsil_Apartment_Complex_Phase_5_(6196571900).jpg | CC-BY-SA 2.0 | InSapphoWeTrust |
+| weather_autumn_bluesky.jpg | https://commons.wikimedia.org/wiki/File:감은사지_blue_sky.jpg | CC-BY-SA 4.0 | Ronnie Dayo |
+| disaster_nepal_satellite.jpg | https://commons.wikimedia.org/wiki/File:ESA_satellite_Imagery_of_2026_Nepal_Floods.jpg | CC-BY-SA 3.0 IGO | ESA |
+| legal_nyc_courthouse.jpg | https://commons.wikimedia.org/wiki/File:Daniel_Patrick_Moynihan_U.S._Courthouse,_Manhattan,_New_York_(7237347688).jpg | CC-BY-SA 2.0 | Ken Lund |
+| government_nts_building.jpg | https://commons.wikimedia.org/wiki/File:South_Korea_National_Tax_Service(NTS).jpg | CC-BY-SA 4.0 | Minseong Kim |
+| sports_jamsil_stadium.jpg | https://commons.wikimedia.org/wiki/File:Interior_of_the_Jamsil_Baseball_Stadium.jpg | CC-BY-SA 4.0 | Christophe95 |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
