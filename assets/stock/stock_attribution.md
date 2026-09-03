@@ -63,7 +63,7 @@
 | industry_posco_pohang.jpg | https://commons.wikimedia.org/wiki/File:Pohang_Korea_ISS020-E-09011_lrg.jpg | Public Domain | NASA (ISS Expedition 20) |
 | realestate_jamsil_apt.jpg | https://commons.wikimedia.org/wiki/File:Jamsil_Apartment_Complex_Phase_5_(6196571900).jpg | CC-BY-SA 2.0 | InSapphoWeTrust |
 | weather_autumn_bluesky.jpg | https://commons.wikimedia.org/wiki/File:감은사지_blue_sky.jpg | CC-BY-SA 4.0 | Ronnie Dayo |
-| disaster_nepal_satellite.jpg | https://commons.wikimedia.org/wiki/File:ESA_satellite_Imagery_of_2026_Nepal_Floods.jpg | CC-BY-SA 3.0 IGO | ESA |
+| disaster_nepal_rescue_drone.jpg | https://commons.wikimedia.org/wiki/File:Drone_surveillance_helps_search_and_rescue_in_Nepal_(16691214064).jpg | CC-BY 2.0 | Jessica Lea/DFID |
 | legal_nyc_courthouse.jpg | https://commons.wikimedia.org/wiki/File:Daniel_Patrick_Moynihan_U.S._Courthouse,_Manhattan,_New_York_(7237347688).jpg | CC-BY-SA 2.0 | Ken Lund |
 | government_nts_building.jpg | https://commons.wikimedia.org/wiki/File:South_Korea_National_Tax_Service(NTS).jpg | CC-BY-SA 4.0 | Minseong Kim |
 | sports_jamsil_stadium.jpg | https://commons.wikimedia.org/wiki/File:Interior_of_the_Jamsil_Baseball_Stadium.jpg | CC-BY-SA 4.0 | Christophe95 |
