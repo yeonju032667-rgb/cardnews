@@ -67,6 +67,14 @@
 | legal_nyc_courthouse.jpg | https://commons.wikimedia.org/wiki/File:Daniel_Patrick_Moynihan_U.S._Courthouse,_Manhattan,_New_York_(7237347688).jpg | CC-BY-SA 2.0 | Ken Lund |
 | government_nts_building.jpg | https://commons.wikimedia.org/wiki/File:South_Korea_National_Tax_Service(NTS).jpg | CC-BY-SA 4.0 | Minseong Kim |
 | sports_jamsil_stadium.jpg | https://commons.wikimedia.org/wiki/File:Interior_of_the_Jamsil_Baseball_Stadium.jpg | CC-BY-SA 4.0 | Christophe95 |
+| international_kuwait_airport.jpg | https://commons.wikimedia.org/wiki/File:Kuwait_International_Airport.jpg | CC-BY 4.0 | Dhaval Surana |
+| tech_soxai_ring.jpg | https://commons.wikimedia.org/wiki/File:SOXAI_Ring_-_1.jpg | CC-BY-SA 4.0 | Kyu3a |
+| government_police_agency.jpg | https://commons.wikimedia.org/wiki/File:Korean_National_Police_Agency_Building03.jpg | CC-BY 2.0 | gohsuket |
+| government_health_welfare_ministry.jpg | https://commons.wikimedia.org/wiki/File:Ministry_of_Health_and_Welfare(South_Korea).JPG | CC-BY-SA 4.0 | Minseong Kim |
+| realestate_south_seoul_aerial.jpg | https://commons.wikimedia.org/wiki/File:South_Seoul.jpg | CC0 | Brücke-Osteuropa |
+| industry_hd_hyundai_ulsan.jpg | https://commons.wikimedia.org/wiki/File:Hyundai_Heavy_Industries_Ulsan_Shipyard_from_Jujeon_Beacon_Mound_-_2023-07-24.jpg | CC0 | Wvdp |
+| weather_namsan_autumn.jpg | https://commons.wikimedia.org/wiki/File:Seoul_Tower_from_Namsan_Park_(9595146693).jpg | CC-BY-SA 2.0 | travel oriented (Flickr) |
+| disaster_nepal_chilime_dam.jpg | https://commons.wikimedia.org/wiki/File:Chilime_Hydropower_Dam_1.JPG | CC-BY-SA 3.0 | Shree Krishna Dhital |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
