@@ -76,6 +76,16 @@
 | weather_namsan_autumn.jpg | https://commons.wikimedia.org/wiki/File:Seoul_Tower_from_Namsan_Park_(9595146693).jpg | CC-BY-SA 2.0 | travel oriented (Flickr) |
 | disaster_nepal_chilime_dam.jpg | https://commons.wikimedia.org/wiki/File:Chilime_Hydropower_Dam_1.JPG | CC-BY-SA 3.0 | Shree Krishna Dhital |
 
+| international_elysee_palace.jpg | https://commons.wikimedia.org/wiki/File:Palais_de_l'Élysée_2019.jpg | CC-BY-SA 4.0 | Leynadmar |
+| government_complex_gwacheon.jpg | https://commons.wikimedia.org/wiki/File:Government_Complex_Gwacheon.jpg | CC-BY-SA 4.0 | Fruitstream |
+| economy_yeouido_skyline.jpg | https://commons.wikimedia.org/wiki/File:Skyline_of_Yeouido,_a_prominent_finance_district_in_Seoul.jpg | CC-BY 4.0 | S h y numis |
+| tech_silicon_wafer.jpg | https://commons.wikimedia.org/wiki/File:Silicon_wafer.jpg | Public Domain | Inductiveload |
+| industry_steel_plant_interior.jpg | https://commons.wikimedia.org/wiki/File:BOS_Plant_(Scunthorpe_Steelworks).jpg | CC0 | Jaxboy32 |
+| realestate_dobonggu_apartment.jpg | https://commons.wikimedia.org/wiki/File:Dobong-gu_Apartment_1.jpg | CC0 | 최광모 (Kwangmo) |
+| weather_olympic_park_autumn.jpg | https://commons.wikimedia.org/wiki/File:Autumn_Seoul_Olympic_Park.jpg | CC-BY-SA 3.0 | Ziggymaster |
+| disaster_nepal_trishuli_river.jpg | https://commons.wikimedia.org/wiki/File:Trishuli_River_Trishuli_Nadi_Nepal.jpg | CC-BY-SA 4.0 | Liznann |
+| sports_suwon_kt_wiz_park.jpg | https://commons.wikimedia.org/wiki/File:Suwon_Sports_Complex_Baseball_Stadium.jpg | CC-BY-SA 4.0 | Jpbarrass |
+
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
 - sports_soccer (attempted: Ewood Park, CC0, D6strrrrr)
