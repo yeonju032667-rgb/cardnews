@@ -96,6 +96,16 @@
 | sports_ulsan_worldcup_stadium.jpg | https://commons.wikimedia.org/wiki/File:Pohang_fans_in_away_end_at_Ulsan_World_Cup_stadium.jpg | CC0 | Haena96 |
 | weather_autumn_v3.jpg | https://commons.wikimedia.org/wiki/File:Hwangmaesan_Mountain_in_autumn.jpg | CC-BY-SA 3.0 | Choi2451 |
 
+| international_saint_paul_de_vence.jpg | https://commons.wikimedia.org/wiki/File:Saint-Paul-de-Vence,_Alpes-Maritimes,_France.jpg | CC-BY-SA 4.0 | Jean-Pierre Lozi |
+| economy_woori_bank_gupo.jpg | https://commons.wikimedia.org/wiki/File:Woori_Bank_Gupo_Branch.JPG | CC-BY-SA 3.0 | Hyolee2 |
+| realestate_wonju_multiunit.jpg | https://commons.wikimedia.org/wiki/File:2020-04-03_10.55.47_원주시_일산동.jpg | CC0 | Choi Kwang-mo |
+| industry_molten_steel_pour.jpg | https://commons.wikimedia.org/wiki/File:Photograph_of_a_Vat_of_Molten_Pig_Iron_Being_Poured_into_an_Open_Hearth_Furnace_at_the_Jones_and_Laughlin_Steel_Company,_Pittsburgh,_Pennsy_-_NARA_-_535922_(high_contrast).jpg | Public Domain | U.S. Office of War Information |
+| weather_bulguksa_gyeongju.jpg | https://commons.wikimedia.org/wiki/File:Bulguksa_temple_entrance_gate_stairs_flower_bed_and_blue_sky_in_Gyeongju_South_Korea.jpg | CC-BY-SA 4.0 | Basile Morin |
+| government_gyeongsan_police.jpg | https://commons.wikimedia.org/wiki/File:Gyeongsan_Police_Station.JPG | CC-BY-SA 3.0 | Hyolee2 |
+| sports_changwon_nc_park.jpg | https://commons.wikimedia.org/wiki/File:Chanwon_NC_Park.jpg | CC-BY-SA 4.0 | Rienzi |
+| international_singha_durbar_nepal.jpg | https://commons.wikimedia.org/wiki/File:Singha_Durbar_Gate,_Kathmandu.jpg | CC-BY-SA 4.0 | Ravijung |
+| trade_busan_port2.jpg | https://commons.wikimedia.org/wiki/File:Busan_Port_(1).jpg | CC-BY-SA 4.0 | Busan Metropolitan City |
+
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
 - sports_soccer (attempted: Ewood Park, CC0, D6strrrrr)
