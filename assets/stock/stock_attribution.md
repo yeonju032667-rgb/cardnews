@@ -86,6 +86,16 @@
 | disaster_nepal_trishuli_river.jpg | https://commons.wikimedia.org/wiki/File:Trishuli_River_Trishuli_Nadi_Nepal.jpg | CC-BY-SA 4.0 | Liznann |
 | sports_suwon_kt_wiz_park.jpg | https://commons.wikimedia.org/wiki/File:Suwon_Sports_Complex_Baseball_Stadium.jpg | CC-BY-SA 4.0 | Jpbarrass |
 
+| international_arc_de_triomphe_tomb.jpg | https://commons.wikimedia.org/wiki/File:Tombe_du_Soldat_inconnu_(Arc_de_Triomphe,_Paris).JPG | CC-BY-SA 4.0 | Nono vlf |
+| international_kremlin_senate.jpg | https://commons.wikimedia.org/wiki/File:Russia-2007-Moscow-Kremlin_Senate_at_night.jpg | CC-BY-SA 4.0 | Andrew Shiva (Godot13) |
+| economy_bank_of_korea_branch.jpg | https://commons.wikimedia.org/wiki/File:The_Bank_of_Korea_Chungbuk_Branch.jpg | CC0 | Neoalpha |
+| realestate_anseong_gyeonggi.jpg | https://commons.wikimedia.org/wiki/File:Korea-Anseong-004.jpg | CC-BY 3.0 | Barnkim |
+| industry_hyundai_heavy_shipyard2.jpg | https://commons.wikimedia.org/wiki/File:Hyundai_Heavy_Industries_ship_yard,_South_Korea_(15037403187).jpg | CC-BY 2.0 | SarahTz |
+| disaster_coast_guard_vessel.jpg | https://commons.wikimedia.org/wiki/File:Korea_Coast_Guard_vessel_5001_Sambongho_2.jpg | CC-BY 4.0 | Japan Ministry of Defense |
+| international_nepal_mofa.jpg | https://commons.wikimedia.org/wiki/File:Building_of_ministry_of_foreign_affairs_(Nepal).jpg | CC-BY-SA 4.0 | Kungfupanda01 |
+| sports_ulsan_worldcup_stadium.jpg | https://commons.wikimedia.org/wiki/File:Pohang_fans_in_away_end_at_Ulsan_World_Cup_stadium.jpg | CC0 | Haena96 |
+| weather_autumn_v3.jpg | https://commons.wikimedia.org/wiki/File:Hwangmaesan_Mountain_in_autumn.jpg | CC-BY-SA 3.0 | Choi2451 |
+
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
 - sports_soccer (attempted: Ewood Park, CC0, D6strrrrr)
