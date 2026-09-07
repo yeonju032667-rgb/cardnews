@@ -106,6 +106,16 @@
 | international_singha_durbar_nepal.jpg | https://commons.wikimedia.org/wiki/File:Singha_Durbar_Gate,_Kathmandu.jpg | CC-BY-SA 4.0 | Ravijung |
 | trade_busan_port2.jpg | https://commons.wikimedia.org/wiki/File:Busan_Port_(1).jpg | CC-BY-SA 4.0 | Busan Metropolitan City |
 
+| international_elysee_garden_facade.jpg | https://commons.wikimedia.org/wiki/File:Facade_jardin_Palais_de_l'Élysée.JPG | CC-BY-SA 3.0 | Chatsam |
+| politics_assembly_plenary_interior.jpg | https://commons.wikimedia.org/wiki/File:Inside_the_Capitol_(Republic_of_Korea).png | CC-BY-SA 3.0 | Roadgo |
+| economy_yeouido_skyline2.jpg | https://commons.wikimedia.org/wiki/File:Cityscape_of_Yeouido_skyscrapers_and_Hangang_Railway_Bridge_20240501113854.jpg | CC-BY-SA 4.0 | TurnOnTheNight |
+| realestate_yeoksam_gangnam.jpg | https://commons.wikimedia.org/wiki/File:Yeoksam-dong,_Gangnam-gu,_Seoul,_South_Korea_-_panoramio.jpg | CC-BY 3.0 | Fumihiko Ueno |
+| industry_posco_center_seoul.jpg | https://commons.wikimedia.org/wiki/File:Seoul_Posco_Building_-_panoramio.jpg | CC-BY-SA 3.0 | oimo |
+| economy_samsung_headquarters.jpg | https://commons.wikimedia.org/wiki/File:Samsung_headquarters.jpg | CC-BY-SA 2.0 | Oskar Alexanderson |
+| weather_odaesan_mountain.jpg | https://commons.wikimedia.org/wiki/File:Korea-Gangwondo-Odaesan_National_Park_1602-07.JPG | CC-BY-SA 3.0 | Steve46814 |
+| disaster_busan_harbour.jpg | https://commons.wikimedia.org/wiki/File:South_Korea_Busan_harbour.jpg | CC-BY-SA 3.0 | Svwmal |
+| sports_jamsil_stadium_exterior.jpg | https://commons.wikimedia.org/wiki/File:Jamsil_Baseball_Stadium_Seoul.jpg | CC-BY-SA 3.0 | Arne Müseler |
+
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
 - sports_soccer (attempted: Ewood Park, CC0, D6strrrrr)
