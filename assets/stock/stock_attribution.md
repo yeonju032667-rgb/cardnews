@@ -115,6 +115,15 @@
 | weather_odaesan_mountain.jpg | https://commons.wikimedia.org/wiki/File:Korea-Gangwondo-Odaesan_National_Park_1602-07.JPG | CC-BY-SA 3.0 | Steve46814 |
 | disaster_busan_harbour.jpg | https://commons.wikimedia.org/wiki/File:South_Korea_Busan_harbour.jpg | CC-BY-SA 3.0 | Svwmal |
 | sports_jamsil_stadium_exterior.jpg | https://commons.wikimedia.org/wiki/File:Jamsil_Baseball_Stadium_Seoul.jpg | CC-BY-SA 3.0 | Arne Müseler |
+| marcoule_nuclear_2026.jpg | https://commons.wikimedia.org/wiki/File:Marcoule_seen_of_CDC.JPG | CC-BY-SA 3.0 | RhôneA7 |
+| railroad_strike_2013_2026.jpg | https://commons.wikimedia.org/wiki/File:2013_Korea_railroad_general_strike_demo_in_seoul_plaza_1.jpg | Public Domain | Salamander724 |
+| skhynix_module_2026.jpg | https://commons.wikimedia.org/wiki/File:SK_HYNIX_HMT451S6AFR8A-PB_4GB_PC3-12800_DDR3-1600MHz_SINGLE_RANK_MEMORY_MODULE_FRONT.jpg | CC-BY-SA 4.0 | Dinkun Chen |
+| bok_museum_2026.jpg | https://commons.wikimedia.org/wiki/File:Bank_of_Korea_Museum_20240219.jpg | CC-BY 4.0 | Sean Young (Assanges) |
+| jangsu_village_2026.jpg | https://commons.wikimedia.org/wiki/File:Jang_Su_Village_In_Seoul_S_Korea_(157820335).jpeg | CC-BY 3.0 | Jeong Heon Kim |
+| constcourt_bldg_2026.jpg | https://commons.wikimedia.org/wiki/File:Constitutional_Court_of_Korea_building.jpg | CC-BY | Constitutional Court of Korea |
+| kyiv_rada_2026.jpg | https://commons.wikimedia.org/wiki/File:Kiev-VerkhovnaRadaBuilding_01.jpg | CC-BY-SA 4.0 | Vincent de Groot |
+| seoraksan_2026.jpg | https://commons.wikimedia.org/wiki/File:Seoraksan_%EC%84%A4%EC%95%85%EC%82%B0_08.jpg | CC-BY-SA 3.0 | Elananna |
+| busan_sajik_stadium_2026.jpg | https://commons.wikimedia.org/wiki/File:Busan_Sajik_Stadium_20080706.JPG | CC-BY-SA 3.0 / GFDL | Cheolstar |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
