@@ -129,7 +129,7 @@
 | yeouido_hangang_bridge_2026.jpg | https://commons.wikimedia.org/wiki/File:Cityscape_of_Yeouido_skyscrapers_and_Hangang_Railway_Bridge_20240501113854.jpg | CC-BY-SA 4.0 | TurnOnTheNight |
 | jukdo_market_pohang_2026.jpg | https://commons.wikimedia.org/wiki/File:죽도어시장내부181115.jpg | CC-BY-SA 3.0 | Cramk777 |
 | seoul_aerial_06_2026.jpg | https://commons.wikimedia.org/wiki/File:Seoul_Aerial_Shot_06.jpg | CC-BY-SA 2.0 | Republic of Korea (Jeon Han, Korea.net) |
-| card_payment_terminal_2026.jpg | https://commons.wikimedia.org/wiki/File:Adyen_card_payment_terminal_(9607998259).jpg | CC-BY 2.0 | Alper Çuğun |
+| toss_logo_2026.jpg | https://commons.wikimedia.org/wiki/File:Toss_Logo_Primary.png | Public Domain (below threshold of originality; trademark applies) | Viva Republica Inc. (㈜비바리퍼블리카) |
 | hana_bank_myeongdong_2026.jpg | https://commons.wikimedia.org/wiki/File:Flagship_Branch_of_Hana_Bank.jpg | CC-BY-SA 3.0 | Hana Financial Group |
 | jeju_windmill_road_2026.jpg | https://commons.wikimedia.org/wiki/File:Sinchang_Windmill_Coastal_Road_01.jpg | CC-BY-SA 4.0 | Grapesurgeon |
 | daegu_samsung_lions_park_2026.jpg | https://commons.wikimedia.org/wiki/File:Daegu_Samsung_Lions_Park_Nightscape.jpg | CC-BY-SA 3.0 | 한림 (Hanlim) |
