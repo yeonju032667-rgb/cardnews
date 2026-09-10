@@ -133,6 +133,15 @@
 | hana_bank_myeongdong_2026.jpg | https://commons.wikimedia.org/wiki/File:Flagship_Branch_of_Hana_Bank.jpg | CC-BY-SA 3.0 | Hana Financial Group |
 | jeju_windmill_road_2026.jpg | https://commons.wikimedia.org/wiki/File:Sinchang_Windmill_Coastal_Road_01.jpg | CC-BY-SA 4.0 | Grapesurgeon |
 | daegu_samsung_lions_park_2026.jpg | https://commons.wikimedia.org/wiki/File:Daegu_Samsung_Lions_Park_Nightscape.jpg | CC-BY-SA 3.0 | 한림 (Hanlim) |
+| duqm_refinery_oman_2026.jpg | https://commons.wikimedia.org/wiki/File:Duqm_Refinery.jpg | CC-BY-SA 4.0 | AbdullahAlMaani |
+| pohang_iss_2026.jpg | https://commons.wikimedia.org/wiki/File:Pohang_Korea_ISS020-E-09011_lrg.jpg | Public Domain | NASA (Expedition 20 crew) |
+| fed_eccles_building_2026.jpg | https://commons.wikimedia.org/wiki/File:Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg | CC-BY-SA 3.0 | AgnosticPreachersKid |
+| samsung_town_seocho_2026.jpg | https://commons.wikimedia.org/wiki/File:Samsung_headquarters.jpg | CC-BY-SA 2.0 | Oskar Alexanderson |
+| govcomplex_seoul_main_2026.jpg | https://commons.wikimedia.org/wiki/File:Government_Complex_Seoul_Main_Building.jpg | CC-BY 4.0 | Seoul Institute |
+| yeouido_2025_dangsan_2026.jpg | https://commons.wikimedia.org/wiki/File:Yeouido2025.jpg | CC-BY 4.0 | Kimhs5400 |
+| seoul_aerial_10_2026.jpg | https://commons.wikimedia.org/wiki/File:Seoul_Aerial_Shot_10.jpg | CC-BY-SA 2.0 | Jeon Han (KOCIS) |
+| yeouido_hanriver_park_2026.jpg | https://commons.wikimedia.org/wiki/File:Yeouido_Han_River_Park.jpg | CC-BY-SA 4.0 | Brit in Seoul |
+| genesis_gv80_2026.jpg | https://commons.wikimedia.org/wiki/File:Genesis_GV80_3.5T_AWD_JX1_PE_Storr_Green_(5).jpg | CC-BY 4.0 | Damian B Oh |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
