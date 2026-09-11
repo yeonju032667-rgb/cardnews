@@ -142,6 +142,15 @@
 | seoul_aerial_10_2026.jpg | https://commons.wikimedia.org/wiki/File:Seoul_Aerial_Shot_10.jpg | CC-BY-SA 2.0 | Jeon Han (KOCIS) |
 | yeouido_hanriver_park_2026.jpg | https://commons.wikimedia.org/wiki/File:Yeouido_Han_River_Park.jpg | CC-BY-SA 4.0 | Brit in Seoul |
 | genesis_gv80_2026.jpg | https://commons.wikimedia.org/wiki/File:Genesis_GV80_3.5T_AWD_JX1_PE_Storr_Green_(5).jpg | CC-BY 4.0 | Damian B Oh |
+| nyse_building_2026.jpg | https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_August_2017_02.jpg | CC-BY-SA 4.0 | Arild Vågen |
+| krx_busan_2026.jpg | https://commons.wikimedia.org/wiki/File:Korea_exchange.JPG | CC-BY-SA 3.0 | hyolee2 |
+| na_night_view_2026.jpg | https://commons.wikimedia.org/wiki/File:National_Assembly_Building_of_South_Korea_night_view.jpg | CC-BY-SA 3.0 | Ox1997cow |
+| munhak_stadium_incheon_2026.jpg | https://commons.wikimedia.org/wiki/File:Munhak_Baseball_Stadium,_Incheon.jpg | CC-BY-SA 3.0 | JNicol |
+| uss_eisenhower_arabian_2026.jpg | https://commons.wikimedia.org/wiki/File:US_Navy_090425-N-9988F-431_The_aircraft_carrier_USS_Dwight_D._Eisenhower_(CVN_69)_operates_in_the_Arabian_Sea_before_the_first_aircraft_launch_of_the_day.jpg | Public Domain | U.S. Navy (MC3 Nicholas Hall) |
+| whitehouse_westwing_2026.jpg | https://commons.wikimedia.org/wiki/File:Exterior_of_the_White_House_West_wing_001.jpg | CC-BY-SA 4.0 | Geraldshields11 |
+| mapo_dohwadong_2026.jpg | https://commons.wikimedia.org/wiki/File:Dohwa-dong,_Mapo-gu,_Seoul,_South_Korea_-_panoramio.jpg | CC-BY 3.0 | junilly |
+| cleanroom_construction_2026.jpg | https://commons.wikimedia.org/wiki/File:Cleanroom1.jpg | CC-BY-SA 2.0 DE | Rudolf Simon |
+| dobongsan_seoul_2026.jpg | https://commons.wikimedia.org/wiki/File:Dobongsan_Seoul_South_Korea_Landscape_Photography_(251858911).jpeg | CC-BY 3.0 | Giuseppe Milo |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
