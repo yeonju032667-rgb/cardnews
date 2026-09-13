@@ -151,6 +151,15 @@
 | mapo_dohwadong_2026.jpg | https://commons.wikimedia.org/wiki/File:Dohwa-dong,_Mapo-gu,_Seoul,_South_Korea_-_panoramio.jpg | CC-BY 3.0 | junilly |
 | cleanroom_construction_2026.jpg | https://commons.wikimedia.org/wiki/File:Cleanroom1.jpg | CC-BY-SA 2.0 DE | Rudolf Simon |
 | dobongsan_seoul_2026.jpg | https://commons.wikimedia.org/wiki/File:Dobongsan_Seoul_South_Korea_Landscape_Photography_(251858911).jpeg | CC-BY 3.0 | Giuseppe Milo |
+| govcomplex_sejong_n_2026.jpg | https://commons.wikimedia.org/wiki/File:Government_Complex_Sejong_(N).jpg | CC-BY-SA 4.0 | Minseong Kim |
+| kt_wiz_doosan_2015_2026.jpg | https://commons.wikimedia.org/wiki/File:20150531_KT_Wiz_vs_Doosan_Bears_(1).jpg | CC-BY-SA 4.0 | Fetx2002 |
+| polish_f16_2026.jpg | https://commons.wikimedia.org/wiki/File:Polish_Air_Force_(4041)_F-16C_Block_52_(26821408781).jpg | CC-BY 2.0 | Gerard van der Schaaf |
+| hahoe_persimmon_2026.jpg | https://commons.wikimedia.org/wiki/File:Korea-Andong-Hahoe_Folk_Village-Persimmon_tree_and_birds-01.jpg | CC-BY 3.0 | Robert |
+| seoul_apt_yeongdeungpo_2026.jpg | https://commons.wikimedia.org/wiki/File:Seoul_Apartment_Buildings_(1509272335).jpg | CC-BY 2.0 | Francisco Anzola |
+| nasdaq_display_2026.jpg | https://commons.wikimedia.org/wiki/File:NASDAQ_stock_market_display.jpg | CC-BY 2.0 | bfishadow |
+| govcomplex_seoul_annex_2026.jpg | https://commons.wikimedia.org/wiki/File:Central_Government_Complex_(Annex),_Seoul_(정부서울청사_별관).JPG | CC-BY-SA 3.0 | Hoseoklee88 |
+| roks_sejong_great_2026.jpg | https://commons.wikimedia.org/wiki/File:ROKS_Sejong_the_Great_(DDG_991).jpg | Public Domain | U.S. Navy (MC1 Attaway) |
+| us_capitol_west_2026.jpg | https://commons.wikimedia.org/wiki/File:US_Capitol_west_side.JPG | CC-BY-SA 3.0 | Martin Falbisoner |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
