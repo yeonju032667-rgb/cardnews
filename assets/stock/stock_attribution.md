@@ -160,6 +160,15 @@
 | govcomplex_seoul_annex_2026.jpg | https://commons.wikimedia.org/wiki/File:Central_Government_Complex_(Annex),_Seoul_(정부서울청사_별관).JPG | CC-BY-SA 3.0 | Hoseoklee88 |
 | roks_sejong_great_2026.jpg | https://commons.wikimedia.org/wiki/File:ROKS_Sejong_the_Great_(DDG_991).jpg | Public Domain | U.S. Navy (MC1 Attaway) |
 | us_capitol_west_2026.jpg | https://commons.wikimedia.org/wiki/File:US_Capitol_west_side.JPG | CC-BY-SA 3.0 | Martin Falbisoner |
+| ministry_finance_sejong_2026.jpg | https://commons.wikimedia.org/wiki/File:Ministry_of_Strategy_and_Finance(South_Korea).JPG | CC-BY-SA 4.0 | Minseong Kim |
+| govcomplex_gwacheon5_2026.jpg | https://commons.wikimedia.org/wiki/File:Government_Complex_Gwacheon_5.jpg | CC-BY-SA 4.0 | Kwangmo |
+| saudi_oil_pipeline_2026.jpg | https://commons.wikimedia.org/wiki/File:Oil_pipe_lines_in_saudi_Arabia_-_panoramio.jpg | CC-BY 3.0 | Suresh Babunair |
+| fed_stlouis_building_2026.jpg | https://commons.wikimedia.org/wiki/File:Federal_Reserve_Bank_of_St._Louis_building.jpg | Public Domain | Federal Reserve Bank of St. Louis |
+| dram_256kx4_2026.jpg | https://commons.wikimedia.org/wiki/File:256Kx4_DRAM.JPG | CC-BY-SA 3.0 | Redgrittybrick (Ian Wilson) |
+| yeouido_skyline_finance_2026.jpg | https://commons.wikimedia.org/wiki/File:Skyline_of_Yeouido,_a_prominent_finance_district_in_Seoul.jpg | CC-BY 4.0 | S h y numis |
+| busan_port_2012_2026.jpg | https://commons.wikimedia.org/wiki/File:BUSAN_PORT_SOUTH_KOREA_OCT_2012_(8228625371).jpg | CC-BY-SA 2.0 | calflier001 |
+| haeundae_beach_2026.jpg | https://commons.wikimedia.org/wiki/File:South_Korea_Busan_Haeundae_Beach.jpg | CC-BY-SA 3.0 | Svwmal |
+| soccer_ball_grass_2026.jpg | https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg | CC0 1.0 | Peter Glaser |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
