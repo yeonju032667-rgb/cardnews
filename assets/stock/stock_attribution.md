@@ -169,7 +169,7 @@
 | busan_port_2012_2026.jpg | https://commons.wikimedia.org/wiki/File:BUSAN_PORT_SOUTH_KOREA_OCT_2012_(8228625371).jpg | CC-BY-SA 2.0 | calflier001 |
 | haeundae_beach_2026.jpg | https://commons.wikimedia.org/wiki/File:South_Korea_Busan_Haeundae_Beach.jpg | CC-BY-SA 3.0 | Svwmal |
 | soccer_ball_grass_2026.jpg | https://commons.wikimedia.org/wiki/File:Adidas_soccer_ball_on_a_grass_pitch_(Unsplash).jpg | CC0 1.0 | Peter Glaser |
-| mnd_secdef_visit_2026.jpg | https://commons.wikimedia.org/wiki/File:210317-D-BN624-1415_(51046418377).jpg | CC-BY 2.0 | Lisa Ferdinando |
+| molit_building_2026.jpg | https://commons.wikimedia.org/wiki/File:Ministry_of_Land,_Infrastructure_and_Transport.jpg | CC-BY-SA 4.0 | Ministry of Land, Infrastructure and Transport (Korea) |
 | seoul_bus_1136_2026.jpg | https://commons.wikimedia.org/wiki/File:Seoul_Bus_1136.JPG | CC-BY-SA 4.0 | hyolee2 |
 | na_building_seoul_2026.jpg | https://commons.wikimedia.org/wiki/File:National_Assembly_(Parliament)_Building_in_Seoul_Korea.jpg | CC-BY-SA 4.0 | Joongwon Lee (SKKU DOA) |
 | jerome_powell_fed_2026.jpg | https://commons.wikimedia.org/wiki/File:Jerome_H._Powell,_Federal_Reserve_Chair.jpg | Public Domain | Federal Reserve |
