@@ -178,6 +178,15 @@
 | nowon_apt_wide_2026.jpg | https://commons.wikimedia.org/wiki/File:Wide_view_of_Nowon-gu_Apartment_buildings.jpg | CC-BY-SA 3.0 | Ox1997cow |
 | hallasan_2026.jpg | https://commons.wikimedia.org/wiki/File:Hallasan_2.jpg | Public Domain | AndiW |
 | basketball_net_2026.jpg | https://commons.wikimedia.org/wiki/File:Basketball_net.jpg | CC-BY-SA 4.0 | Justin Smith |
+| kevin_warsh_whitehouse_2026.jpg | https://commons.wikimedia.org/wiki/File:2026_Kevin_Warsh_at_the_White_House_on_May_22_(cropped).jpg | Public Domain | Daniel Torok (Official White House Photographer) |
+| sheikh_zayed_mosque_2026.jpg | https://commons.wikimedia.org/wiki/File:Sheikh_Zayed_Grand_Mosque,_the_entrance_to_the_parking_area..JPG | CC-BY-SA 3.0 | GinaD |
+| trans_alaska_pipeline_2026.jpg | https://commons.wikimedia.org/wiki/File:Trans-Alaska_Pipeline_System_Luca_Galuzzi_2005.jpg | CC-BY-SA 2.5 | Luca Galuzzi |
+| basketball_court_aisn_2026.jpg | https://commons.wikimedia.org/wiki/File:AISN_Basketball_Court.jpg | CC-BY-SA 4.0 | Jeffduckett |
+| samsung_pyeongtaek_biden_2026.jpg | https://commons.wikimedia.org/wiki/File:President_Biden_visited_the_Samsung_Electronics_Pyeongtaek_Campus_(1).jpg | Public Domain | Office of the President of the United States |
+| seoul_garak_apt_2026.jpg | https://commons.wikimedia.org/wiki/File:Seoul_garak_APT.jpg | Public Domain | Stegano |
+| daegu_cityhall_2026.jpg | https://commons.wikimedia.org/wiki/File:Daegu_city_hall_context.jpg | Public Domain | Visviva |
+| fawley_oil_tanks_2026.jpg | https://commons.wikimedia.org/wiki/File:Oil_storage_tanks_at_Fawley_Refinery_(low-altitude_aerial)_-_geograph.org.uk_-_413370.jpg | CC-BY-SA 2.0 | David Martin |
+| gocheok_skydome_2026.jpg | https://commons.wikimedia.org/wiki/File:Gocheok_Sky_Dome_(36530170325).jpg | CC-BY-SA 2.0 | redlegsfan21 |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
