@@ -187,6 +187,15 @@
 | daegu_cityhall_2026.jpg | https://commons.wikimedia.org/wiki/File:Daegu_city_hall_context.jpg | Public Domain | Visviva |
 | fawley_oil_tanks_2026.jpg | https://commons.wikimedia.org/wiki/File:Oil_storage_tanks_at_Fawley_Refinery_(low-altitude_aerial)_-_geograph.org.uk_-_413370.jpg | CC-BY-SA 2.0 | David Martin |
 | gocheok_skydome_2026.jpg | https://commons.wikimedia.org/wiki/File:Gocheok_Sky_Dome_(36530170325).jpg | CC-BY-SA 2.0 | redlegsfan21 |
+| won_50000_banknote_2026.jpg | https://commons.wikimedia.org/wiki/File:50000_won_banknote_(cropped).jpg | CC-BY-SA 4.0 | Bank of Korea |
+| lng_tanker_wickham_2026.jpg | https://commons.wikimedia.org/wiki/File:LNG_Tanker_Energy_Progress_at_Wickham_Point_in_March_2016_(25599950124).jpg | CC-BY 2.0 | Ken Hodge |
+| abudhabi_skyline_2026.jpg | https://commons.wikimedia.org/wiki/File:Abu_Dhabi_Skyline.jpg | CC-BY-SA 4.0 | comedian44 |
+| basketball_scoreboard_2026.jpg | https://commons.wikimedia.org/wiki/File:Shot_clock_(red)_and_game_clock_(white)_in_a_basketball_game.JPG | CC-BY-SA 3.0 | TonyTheTiger |
+| daejeon_hanbat_stadium_2026.jpg | https://commons.wikimedia.org/wiki/File:Daejeon_Hanbat_Baseball_Stadium.jpg | CC-BY-SA 3.0 | Prister |
+| datacenter_server_racks_2026.jpg | https://commons.wikimedia.org/wiki/File:Datacenter_Server_Racks_(22370909788).jpg | CC-BY 2.0 | Carl Lender |
+| odesa_opera_theater_2026.jpg | https://commons.wikimedia.org/wiki/File:Odessa_Opera_Theater.JPG | CC-BY-SA 4.0 | Julian Nyča |
+| polish_mig29_2026.jpg | https://commons.wikimedia.org/wiki/File:MiG-29_Polish_Air_Force_(19318761923).jpg | CC-BY 2.0 | Ronnie Macdonald |
+| anyang_rainy_day_2026.jpg | https://commons.wikimedia.org/wiki/File:Rainy_day_in_Anyang_-_20211010.jpg | CC-BY-SA 4.0 | Sikander Iqbal |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
