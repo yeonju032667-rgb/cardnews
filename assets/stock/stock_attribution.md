@@ -196,6 +196,15 @@
 | odesa_opera_theater_2026.jpg | https://commons.wikimedia.org/wiki/File:Odessa_Opera_Theater.JPG | CC-BY-SA 4.0 | Julian Nyča |
 | polish_mig29_2026.jpg | https://commons.wikimedia.org/wiki/File:MiG-29_Polish_Air_Force_(19318761923).jpg | CC-BY 2.0 | Ronnie Macdonald |
 | anyang_rainy_day_2026.jpg | https://commons.wikimedia.org/wiki/File:Rainy_day_in_Anyang_-_20211010.jpg | CC-BY-SA 4.0 | Sikander Iqbal |
+| nagoya_castle_2026.jpg | https://commons.wikimedia.org/wiki/File:Nagoya_Castle_7.jpg | CC-BY-SA 4.0 | Bariston |
+| yeouido_railbridge_2026.jpg | https://commons.wikimedia.org/wiki/File:Cityscape_of_Yeouido_skyscrapers_and_Hangang_Railway_Bridge_20240501113854.jpg | CC-BY-SA 4.0 | TurnOnTheNight |
+| na_building_01_2026.jpg | https://commons.wikimedia.org/wiki/File:Korea-Seoul-Yeouido-National_Assembly_Building-01.jpg | CC-BY-SA 3.0 | Alain Seguin |
+| qasr_al_watan_2026.jpg | https://commons.wikimedia.org/wiki/File:Qasr_Al_Watan_13.jpg | CC0 1.0 | EditQ |
+| gimhae_busan_tg_2026.jpg | https://commons.wikimedia.org/wiki/File:Daegu_Busan_Expressway_Gimhae_Busan_TG.jpg | CC-BY 3.0 | G43 |
+| yeongdongdaero_gangnam_2026.jpg | https://commons.wikimedia.org/wiki/File:Yeongdong-daero,_Gangnam-gu,_Seoul,_South_Korea.jpg | CC-BY-SA 3.0 | 张元柏 |
+| sumy_skyline_2026.jpg | https://commons.wikimedia.org/wiki/File:Skyline_of_Sumy.jpg | CC-BY-SA 4.0 | Максим Бондаревский |
+| donbas_map_2026.jpg | https://commons.wikimedia.org/wiki/File:Map_of_Donbas_region.svg | CC-BY-SA 4.0 | Goran tek-en |
+| gangmun_beach_2026.jpg | https://commons.wikimedia.org/wiki/File:Gangmun_Beach.jpg | CC-BY-SA 4.0 | Christophe95 |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
