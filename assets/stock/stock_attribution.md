@@ -205,6 +205,15 @@
 | sumy_skyline_2026.jpg | https://commons.wikimedia.org/wiki/File:Skyline_of_Sumy.jpg | CC-BY-SA 4.0 | Максим Бондаревский |
 | donbas_map_2026.jpg | https://commons.wikimedia.org/wiki/File:Map_of_Donbas_region.svg | CC-BY-SA 4.0 | Goran tek-en |
 | gangmun_beach_2026.jpg | https://commons.wikimedia.org/wiki/File:Gangmun_Beach.jpg | CC-BY-SA 4.0 | Christophe95 |
+| govcomplex_gwacheon3_2026.jpg | https://commons.wikimedia.org/wiki/File:Government_Complex_Gwacheon_3.jpg | CC-BY-SA 4.0 | 최광모(Kwangmo) |
+| scotus_building_2026.jpg | https://commons.wikimedia.org/wiki/File:United_States_Supreme_Court_Building,_July_21,_2020.jpg | CC-BY 2.0 | Senate Democrats |
+| yeouido_highway_view_2026.jpg | https://commons.wikimedia.org/wiki/File:Yeouido,_view_from_highway.jpg | Public Domain | HunkinElvis |
+| south_seoul_aerial_2026.jpg | https://commons.wikimedia.org/wiki/File:South_Seoul.jpg | CC0 1.0 | Brücke-Osteuropa |
+| gwangyang_ironworks_2026.jpg | https://commons.wikimedia.org/wiki/File:GwangyangIronworks.jpg | Public Domain | Kim So-min |
+| maidan_square_mist_2026.jpg | https://commons.wikimedia.org/wiki/File:Maidan_Square_with_mist,_Kiev._Ukraine_(32125790998).jpg | CC-BY 2.0 | Juan Antonio Segal |
+| goheung_ricefields_2026.jpg | https://commons.wikimedia.org/wiki/File:Korea-Goheung-Rice_fields_in_rural_Goheung.JPG | CC-BY-SA 3.0 | Steve46814 |
+| basketball_hoop_2026.jpg | https://commons.wikimedia.org/wiki/File:Basketball_through_hoop.jpg | Public Domain | Airman 1st Class Kerelin Molina |
+| pentathlon_laserrun_2026.jpg | https://commons.wikimedia.org/wiki/File:Laser_Run_Mixed_Relay_Modern_Pentathlon_2018_YOG_(112).JPG | CC-BY-SA 4.0 | BugWarp |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
