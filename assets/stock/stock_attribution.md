@@ -214,6 +214,15 @@
 | goheung_ricefields_2026.jpg | https://commons.wikimedia.org/wiki/File:Korea-Goheung-Rice_fields_in_rural_Goheung.JPG | CC-BY-SA 3.0 | Steve46814 |
 | basketball_hoop_2026.jpg | https://commons.wikimedia.org/wiki/File:Basketball_through_hoop.jpg | Public Domain | Airman 1st Class Kerelin Molina |
 | pentathlon_laserrun_2026.jpg | https://commons.wikimedia.org/wiki/File:Laser_Run_Mixed_Relay_Modern_Pentathlon_2018_YOG_(112).JPG | CC-BY-SA 4.0 | BugWarp |
+| na_conference_room_2026.jpg | https://commons.wikimedia.org/wiki/File:Main_conference_room_of_South_korean_national_assembly_building.JPG | CC-BY-SA 3.0 | Dmthoth |
+| samsung_tower_palace_2026.jpg | https://commons.wikimedia.org/wiki/File:%EC%96%91%EC%9E%AC%EC%B2%9C%EA%B3%BC_%EC%82%BC%EC%84%B1_%ED%83%80%EC%9B%8C%ED%8C%B0%EB%A6%AC%EC%8A%A4_Samsung_Tower_Palace_and_Yangjaecheon_Stream_7.jpg | CC-BY-SA 4.0 | S h y numis |
+| gyeongbu_suwon_tg_2026.jpg | https://commons.wikimedia.org/wiki/File:Gyeongbu_Expressway_-_Suwon_TG_Exit_(20090321).jpg | CC-BY-SA 3.0 | P.Cps1120a |
+| un_headquarters_ny_2026.jpg | https://commons.wikimedia.org/wiki/File:Headquarters_of_the_United_Nations,_New_York_City,_20231001_1103_1007.jpg | CC-BY 4.0 | Jakub Hałun |
+| st_sophia_kyiv_2026.jpg | https://commons.wikimedia.org/wiki/File:St.Sophia_Cathedral,_Kyiv,_Ukraine_(2).jpg | CC-BY-SA 4.0 | Ivan Sedlovskyi |
+| riyadh_skyline_2026.jpg | https://commons.wikimedia.org/wiki/File:Riyadh_Skyline.jpg | CC-BY-SA 4.0 | B.alotaby |
+| korea_highway_ansan_2026.jpg | https://commons.wikimedia.org/wiki/File:Korean_highway_Expressway_in_South_Korea_Ansan.jpg | CC0 1.0 | Hankook12 |
+| taegeukgi_flag_2026.jpg | https://commons.wikimedia.org/wiki/File:Korean_flag_(Taegeukgi,_%ED%83%9C%EA%B7%B9%EA%B8%B0)_(4258360273).jpg | CC-BY-SA 2.0 | Korea.net(KOCIS) |
+| womens_basketball_shot_2026.jpg | https://commons.wikimedia.org/wiki/File:Flying_Shot_(5895790369).jpg | CC-BY 2.0 | Alex Proimos |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
