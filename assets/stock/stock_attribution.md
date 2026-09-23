@@ -223,6 +223,15 @@
 | korea_highway_ansan_2026.jpg | https://commons.wikimedia.org/wiki/File:Korean_highway_Expressway_in_South_Korea_Ansan.jpg | CC0 1.0 | Hankook12 |
 | taegeukgi_flag_2026.jpg | https://commons.wikimedia.org/wiki/File:Korean_flag_(Taegeukgi,_%ED%83%9C%EA%B7%B9%EA%B8%B0)_(4258360273).jpg | CC-BY-SA 2.0 | Korea.net(KOCIS) |
 | womens_basketball_shot_2026.jpg | https://commons.wikimedia.org/wiki/File:Flying_Shot_(5895790369).jpg | CC-BY 2.0 | Alex Proimos |
+| nyse_facade_2026.jpg | https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_Facade_2015.jpg | CC-BY 2.0 | Jeffrey Zeldman |
+| korea_exchange_busan_2026.jpg | https://commons.wikimedia.org/wiki/File:Korea_exchange.JPG | CC-BY-SA 3.0 | Hyolee2 |
+| govcomplex_sejong_entrance_2026.jpg | https://commons.wikimedia.org/wiki/File:Government_Complex_Sejong_20190611_Main_Entrance.jpg | CC-BY-SA 3.0 | Youngjin |
+| ktx_seoul_station_2026.jpg | https://commons.wikimedia.org/wiki/File:KTX_Korea_Train_Express_Seoul_Station_Seoul_South_Korea_Republic_of_Korea_ROK_Daehan_Minguk_(31885863678).jpg | CC-BY-SA 2.0 | Flickr user bryan |
+| gyeongju_rice_paddy_2026.jpg | https://commons.wikimedia.org/wiki/File:Korea-Gyeongju-Rice_paddy_field-01.jpg | CC-BY-SA 2.0 | riNux |
+| seoul_police_agency_2026.jpg | https://commons.wikimedia.org/wiki/File:Seoul_Metropolitan_Police_Agency.JPG | CC-BY-SA 3.0 | hyolee2 |
+| kharkiv_embankment_2026.jpg | https://commons.wikimedia.org/wiki/File:Kharkiv_River_and_Kharkivska_Embankment_-_View_from_Kharkiv_Bridge.jpg | CC-BY-SA 4.0 | Lystopad |
+| badminton_shuttlecock_2026.jpg | https://commons.wikimedia.org/wiki/File:Shuttlecock_on_a_badminton_court.jpg | CC-BY-SA 4.0 | Syed Ahmad Fathi |
+| baseball_closeup_2026.jpg | https://commons.wikimedia.org/wiki/File:Baseball_(crop).jpg | CC-BY-SA 2.0 | Tage Olsin |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
