@@ -232,6 +232,15 @@
 | kharkiv_embankment_2026.jpg | https://commons.wikimedia.org/wiki/File:Kharkiv_River_and_Kharkivska_Embankment_-_View_from_Kharkiv_Bridge.jpg | CC-BY-SA 4.0 | Lystopad |
 | badminton_shuttlecock_2026.jpg | https://commons.wikimedia.org/wiki/File:Shuttlecock_on_a_badminton_court.jpg | CC-BY-SA 4.0 | Syed Ahmad Fathi |
 | baseball_closeup_2026.jpg | https://commons.wikimedia.org/wiki/File:Baseball_(crop).jpg | CC-BY-SA 2.0 | Tage Olsin |
+| palacio_bellas_artes_2026.jpg | https://commons.wikimedia.org/wiki/File:Mexico_City_Palacio_de_bellas_artes.jpg | CC-BY-SA 2.5 | Jeses |
+| whitehouse_west_residence_2026.jpg | https://commons.wikimedia.org/wiki/File:West_side_of_the_White_House_Executive_Residence.jpg | Public Domain | Chuck Kennedy |
+| hyundai_assembly_line_2026.jpg | https://commons.wikimedia.org/wiki/File:Hyundai_car_assembly_line.jpg | CC-BY-SA 3.0 | Taneli Rajala |
+| inglewood_oilfield_pumpjack_2026.jpg | https://commons.wikimedia.org/wiki/File:Pumpjacks_Inglewood_Oil_Field_seen_from_Baldwin_Hills_Scenic_Overlook.jpg | CC-BY-SA 4.0 | Jengod |
+| seoul_apartment_buildings_2026.jpg | https://commons.wikimedia.org/wiki/File:Seoul_Apartment_Buildings_(1509272335).jpg | CC-BY 2.0 | Francisco Anzola |
+| yanghwaro_rain_night_2026.jpg | https://commons.wikimedia.org/wiki/File:Rain_and_Night_in_Yanghwa-ro.jpg | CC-BY 2.0 | Tony |
+| daejeon_firedrill_2026.jpg | https://commons.wikimedia.org/wiki/File:070712FireDrill_Nambu_Daejeon_SKorea_01.jpg | CC-BY-SA 3.0 | Nudimmud |
+| womens_soccer_action_2026.jpg | https://commons.wikimedia.org/wiki/File:Women%27s_soccer_action_at_Hudson_Valley_Community_College.jpg | CC-BY-SA 3.0 | Anthony Salamone |
+| asian_giant_hornet_2026.jpg | https://commons.wikimedia.org/wiki/File:Vespa_mandarinia_japonica1.jpg | CC-BY-SA 3.0 | KENPEI |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
