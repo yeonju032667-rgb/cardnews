@@ -241,6 +241,15 @@
 | daejeon_firedrill_2026.jpg | https://commons.wikimedia.org/wiki/File:070712FireDrill_Nambu_Daejeon_SKorea_01.jpg | CC-BY-SA 3.0 | Nudimmud |
 | womens_soccer_action_2026.jpg | https://commons.wikimedia.org/wiki/File:Women%27s_soccer_action_at_Hudson_Valley_Community_College.jpg | CC-BY-SA 3.0 | Anthony Salamone |
 | asian_giant_hornet_2026.jpg | https://commons.wikimedia.org/wiki/File:Vespa_mandarinia_japonica1.jpg | CC-BY-SA 3.0 | KENPEI |
+| pdc_server_room_2026.jpg | https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg | CC-BY-SA 3.0 | Johan Fredriksson |
+| seoul_night_skyline_2026.jpg | https://commons.wikimedia.org/wiki/File:Seoul_Night_Skyline_2022.jpg | CC-BY-SA 4.0 | Takipoint123 |
+| govcomplex_sejong_02_2026.jpg | https://commons.wikimedia.org/wiki/File:Government_Complex_Sejong_20190611_02.jpg | CC-BY-SA 3.0 | Youngjin |
+| daewoo_shipbuilding_aerial_2026.jpg | https://commons.wikimedia.org/wiki/File:Aerial_View_of_Daewoo_Shipbuilding_%26_Marine_Engineering.jpg | CC-BY-SA 4.0 | IikaJzuchiN |
+| un_general_assembly_hall_2026.jpg | https://commons.wikimedia.org/wiki/File:United_Nations_General_Assembly_Hall_(2).jpg | CC-BY-SA 3.0 | Basil D Soufi |
+| wonju_police_car_2026.jpg | https://commons.wikimedia.org/wiki/File:Police_car_in_Wonju,_South_Korea.JPG | CC-BY-SA 3.0 | Dalgial |
+| bomun_lake_autumn_2026.jpg | https://commons.wikimedia.org/wiki/File:Korea-Gyeongju-Bomun_Lake_in_autumn-02.jpg | CC-BY 3.0 | Grete Howard |
+| badminton_racket_2026.jpg | https://commons.wikimedia.org/wiki/File:Badminton_Racket.jpg | CC-BY-SA 4.0 | hvshop |
+| smartphone_chatgpt_2026.jpg | https://commons.wikimedia.org/wiki/File:Smartphone_with_ChatGPT_app_(52917381673).jpg | CC-BY 2.0 | Jernej Furman |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
