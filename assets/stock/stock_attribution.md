@@ -250,6 +250,15 @@
 | bomun_lake_autumn_2026.jpg | https://commons.wikimedia.org/wiki/File:Korea-Gyeongju-Bomun_Lake_in_autumn-02.jpg | CC-BY 3.0 | Grete Howard |
 | badminton_racket_2026.jpg | https://commons.wikimedia.org/wiki/File:Badminton_Racket.jpg | CC-BY-SA 4.0 | hvshop |
 | smartphone_chatgpt_2026.jpg | https://commons.wikimedia.org/wiki/File:Smartphone_with_ChatGPT_app_(52917381673).jpg | CC-BY 2.0 | Jernej Furman |
+| cheongwadae_bukhansan_2026.jpg | https://commons.wikimedia.org/wiki/File:Korea-Seoul-Cheongwadae-Blue.House-Bukhansan-01.jpg | CC-BY-SA 2.0 | somedragon2000 |
+| frankfurt_bull_bear_2026.jpg | https://commons.wikimedia.org/wiki/File:Bull_an_Bear_in_Frankfurt_stock_exchange.jpg | CC-BY-SA 3.0 | RudolfSimon |
+| apgujeong_hyundai_apt_2026.jpg | https://commons.wikimedia.org/wiki/File:Apgujeong_20181128_131055.jpg | CC-BY 4.0 | H. Y. Shin 000 |
+| nasu_presidium_kyiv_2026.jpg | https://commons.wikimedia.org/wiki/File:NASU_presidium.jpg | CC-BY-SA 3.0 | Did Panas |
+| emirates_palace_2026.jpg | https://commons.wikimedia.org/wiki/File:Emirates_Palace.jpg | CC-BY 4.0 | Chris Down |
+| korea_dmz_sentry_2026.jpg | https://commons.wikimedia.org/wiki/File:Korea_DMZ_sentry.jpg | CC-BY-SA 3.0 | Johannes Barre |
+| korean_man_umbrella_2026.jpg | https://commons.wikimedia.org/wiki/File:Korean_Man_With_Umbrella_(2479371146).jpg | CC-BY 2.0 | Don O'Brien |
+| badminton_court_view_2026.jpg | https://commons.wikimedia.org/wiki/File:Badminton_court_view.jpg | CC0 1.0 | Darakshanehaluddin |
+| badminton_doubles_wembley_2026.jpg | https://commons.wikimedia.org/wiki/File:Olympics_2012_Mixed_Doubles_Final.jpg | CC-BY-SA 2.0 | Peter |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
