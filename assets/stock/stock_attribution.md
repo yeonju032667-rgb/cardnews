@@ -259,6 +259,15 @@
 | korean_man_umbrella_2026.jpg | https://commons.wikimedia.org/wiki/File:Korean_Man_With_Umbrella_(2479371146).jpg | CC-BY 2.0 | Don O'Brien |
 | badminton_court_view_2026.jpg | https://commons.wikimedia.org/wiki/File:Badminton_court_view.jpg | CC0 1.0 | Darakshanehaluddin |
 | badminton_doubles_wembley_2026.jpg | https://commons.wikimedia.org/wiki/File:Olympics_2012_Mixed_Doubles_Final.jpg | CC-BY-SA 2.0 | Peter |
+| bloomberg_terminal_2026.jpg | https://commons.wikimedia.org/wiki/File:Bloomberg_Terminal_and_keyboard.JPG | CC0 1.0 | Gforsythe |
+| na_hanriver_view_2026.jpg | https://commons.wikimedia.org/wiki/File:Han_River_and_National_Assembly_Building_of_South_Korea.jpg | CC-BY-SA 3.0 | Ox1997cow |
+| kremlin_night_panorama_2026.jpg | https://commons.wikimedia.org/wiki/File:Vista_general_del_Kremlin,_Moscú,_Rusia,_2016-10-03,_DD_18-19_HDR.jpg | CC-BY-SA 4.0 | Diego Delso |
+| nowon_lotte_tower_2026.jpg | https://commons.wikimedia.org/wiki/File:Nowon-gu_Apartment_buildings_with_Lotte_World_Tower.jpg | CC-BY-SA 3.0 | Ox1997cow |
+| posco_pohang_factory_2026.jpg | https://commons.wikimedia.org/wiki/File:%ED%8F%AC%ED%95%AD%EA%B3%B5%EC%9E%A5_%EC%A0%84%EA%B2%BD.jpg | CC-BY-SA 3.0 | POSCO TMC |
+| gangneung_gyeongpodae_2026.jpg | https://commons.wikimedia.org/wiki/File:Korea-Gangneung-Gyeongpodae-01.jpg | CC-BY-SA 3.0 | Junho Jung |
+| gwangju_family_court_2026.jpg | https://commons.wikimedia.org/wiki/File:Gwangju_Family_Court.jpg | CC0 1.0 | Neoalpha |
+| taipei_esports_arena_2026.jpg | https://commons.wikimedia.org/wiki/File:All-Star_eSports_Arena,_Taipei_Game_Show_20190126a.jpg | CC-BY-SA 4.0 | Solomon203 |
+| black_eagles_t50_2026.jpg | https://commons.wikimedia.org/wiki/File:Republic_of_Korea_Air_Force_display_team_the_Black_Eagles_KAI_T-50_Golden_Eagle_(52222215555).jpg | CC-BY 2.0 | Nick |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
