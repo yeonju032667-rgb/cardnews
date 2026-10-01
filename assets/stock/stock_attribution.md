@@ -268,6 +268,15 @@
 | gwangju_family_court_2026.jpg | https://commons.wikimedia.org/wiki/File:Gwangju_Family_Court.jpg | CC0 1.0 | Neoalpha |
 | taipei_esports_arena_2026.jpg | https://commons.wikimedia.org/wiki/File:All-Star_eSports_Arena,_Taipei_Game_Show_20190126a.jpg | CC-BY-SA 4.0 | Solomon203 |
 | black_eagles_t50_2026.jpg | https://commons.wikimedia.org/wiki/File:Republic_of_Korea_Air_Force_display_team_the_Black_Eagles_KAI_T-50_Golden_Eagle_(52222215555).jpg | CC-BY 2.0 | Nick |
+| stock_market_chart_2026.jpg | https://commons.wikimedia.org/wiki/File:Stock_Market_April_5_2025_3_Months.png | Public Domain | Freakmenn |
+| uss_hormuz_transit_2026.jpg | https://commons.wikimedia.org/wiki/File:Flickr_-_Official_U.S._Navy_Imagery_-_U.S._Navy_ships_transit_the_Strait_of_Hormuz..jpg | Public Domain | Alex R. Forster/US Navy |
+| supreme_court_korea_2026.jpg | https://commons.wikimedia.org/wiki/File:Supreme_Court_of_Korea_(2020).jpg | CC-BY 4.0 | Seoul Institute |
+| alaska_pipeline_pumpstation_2026.jpg | https://commons.wikimedia.org/wiki/File:Alaska_Pipeline_Pumpstation_-9.jpg | CC-BY-SA 3.0 | Aconcagua |
+| songdo_apartment_blocks_2026.jpg | https://commons.wikimedia.org/wiki/File:South_Korea,_Incheon,_Songdo_(04),_apartment_blocks_and_school.jpg | CC-BY-SA 4.0 | Vincent van Zeijst |
+| ballot_box_scrutineering_2026.jpg | https://commons.wikimedia.org/wiki/File:Ballot_box_scrutineering.jpg | CC0 1.0 | Surturz |
+| frost_on_grass_2026.jpg | https://commons.wikimedia.org/wiki/File:Frost_(31189250653).jpg | CC-BY 2.0 | XoMEoX |
+| seoul_eastern_court_2026.jpg | https://commons.wikimedia.org/wiki/File:서울동부지법_건물_출입구.jpg | CC-BY-SA 4.0 | Pectus Solentis |
+| lol_worlds_2018_stadium_2026.jpg | https://commons.wikimedia.org/wiki/File:League_of_Legends_World_Championship_Finals_2018.jpg | CC-BY 2.0 | Richard Ye |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
