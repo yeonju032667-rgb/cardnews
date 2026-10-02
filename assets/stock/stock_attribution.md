@@ -277,6 +277,15 @@
 | frost_on_grass_2026.jpg | https://commons.wikimedia.org/wiki/File:Frost_(31189250653).jpg | CC-BY 2.0 | XoMEoX |
 | seoul_eastern_court_2026.jpg | https://commons.wikimedia.org/wiki/File:서울동부지법_건물_출입구.jpg | CC-BY-SA 4.0 | Pectus Solentis |
 | lol_worlds_2018_stadium_2026.jpg | https://commons.wikimedia.org/wiki/File:League_of_Legends_World_Championship_Finals_2018.jpg | CC-BY 2.0 | Richard Ye |
+| nyse_trading_floor_2026.jpg | https://commons.wikimedia.org/wiki/File:NYSE_Advanced_Trading_Floor.jpg | CC BY-SA 3.0 | Eduard Hueber |
+| embassy_ukraine_israel_2026.jpg | https://commons.wikimedia.org/wiki/File:Embassy_of_Ukraine_in_Israel.jpg | CC BY-SA 4.0 | Andrew J. Kurbiko |
+| sungnyemun_gate_2026.jpg | https://commons.wikimedia.org/wiki/File:Korea-Seoul-Namdaemun-Sungnyemun-16.jpg | CC-BY 2.0 | tylerdurden1 |
+| construction_crane_nz_2026.jpg | https://commons.wikimedia.org/wiki/File:Construction_Crane_Residential_Building_I.jpg | Public Domain | Ingolfson |
+| banpo_raemian_sign_2026.jpg | https://commons.wikimedia.org/wiki/File:Banpo_Raemian_Firstige_Apartment_Sign_01.jpg | CC BY-SA 4.0 | Exj |
+| odaesan_park_autumn_2026.jpg | https://commons.wikimedia.org/wiki/File:Korea-Gangwondo-Odaesan_National_Park_1636-07.JPG | CC BY-SA 3.0 | Steve46814 |
+| skhynix_socamm_2026.jpg | https://commons.wikimedia.org/wiki/File:SK_Hynix_SOCAMM_module_Computex_2025.jpg | CC BY 4.0 | 4300streetcar |
+| na_building_yeouido04_2026.jpg | https://commons.wikimedia.org/wiki/File:Korea-Seoul-Yeouido-National_Assembly_Building-04.jpg | CC BY-SA 3.0 | Alain Seguin |
+| esports_worldcup_trophy_2026.jpg | https://commons.wikimedia.org/wiki/File:2026_Esports_World_Cup_trophy_gallery.jpg | CC0 1.0 | PeaceSeekers |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
