@@ -306,7 +306,7 @@
 | baseball_bat_glove_closeup_2026.jpg | https://commons.wikimedia.org/wiki/File:Baseball_bat_helmet_and_glove_mitt_(16967297036).jpg | CC BY 2.0 | Personal Creations |
 | dorasan_station_ticket_office_2026.jpg | https://commons.wikimedia.org/wiki/File:Dorasan_Station_ticket_office.JPG | Public Domain | Abasaa |
 | seoul_national_assembly_02_2026.jpg | https://commons.wikimedia.org/wiki/File:Seoul-National.Assembly-02.jpg | CC BY 2.0 | frakorea |
-| whitehouse_north_portico_2026.jpg | https://commons.wikimedia.org/wiki/File:North_Portico_of_the_White_House_photo_Don_Ramey_Logan.jpg | CC BY-SA 4.0 | Don Ramey Logan |
+| nvidia_gpu_cluster_2026.jpg | https://commons.wikimedia.org/wiki/File:Tesla_NVIDIA_GPU_cluster_(3707257190).jpg | CC BY 2.0 | ChrisDag |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
