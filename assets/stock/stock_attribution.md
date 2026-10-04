@@ -286,6 +286,15 @@
 | skhynix_socamm_2026.jpg | https://commons.wikimedia.org/wiki/File:SK_Hynix_SOCAMM_module_Computex_2025.jpg | CC BY 4.0 | 4300streetcar |
 | na_building_yeouido04_2026.jpg | https://commons.wikimedia.org/wiki/File:Korea-Seoul-Yeouido-National_Assembly_Building-04.jpg | CC BY-SA 3.0 | Alain Seguin |
 | esports_worldcup_trophy_2026.jpg | https://commons.wikimedia.org/wiki/File:2026_Esports_World_Cup_trophy_gallery.jpg | CC0 1.0 | PeaceSeekers |
+| govcomplex_gwacheon_01_2026.jpg | https://commons.wikimedia.org/wiki/File:Government_Complex_Gwacheon_1.jpg | CC BY-SA 4.0 | 최광모 (Kwangmo) |
+| shinhan_bank_exchange_incheon_2026.jpg | https://commons.wikimedia.org/wiki/File:Shinhan_Bank_Currency_exchange_at_the_Incheon_International_Airport.jpg | CC BY-SA 4.0 | Vuong Tri Binh |
+| digital_stock_ticker_2026.jpg | https://commons.wikimedia.org/wiki/File:Digital-financial-led-stock-ticker-tape-photonplay.jpg | CC BY-SA 4.0 | Photonplay Systems Inc |
+| elderly_railway_park_2026.jpg | https://commons.wikimedia.org/wiki/File:An_elderly_walking_at_a_once-a-railway_park_in_South_Korea-_2013-07-09_02-20.jpg | CC BY-SA 3.0 | Bluegheena |
+| yellowsea_modis_clouds_2026.jpg | https://commons.wikimedia.org/wiki/File:Low_clouds_over_the_Yellow_Sea_(MODIS_2018-03-28).jpg | Public Domain | Jeff Schmaltz, NASA |
+| flag_of_iran_2026.jpg | https://commons.wikimedia.org/wiki/File:Flag_of_Iran.svg | Public Domain/CC0 | Javad Marcouz |
+| gwanghwamun_square_2026.jpg | https://commons.wikimedia.org/wiki/File:Gwanghwamun_Square_4.jpg | CC BY-SA 4.0 | Kallerna |
+| naver_library_2026.jpg | https://commons.wikimedia.org/wiki/File:Naver_Library.jpg | CC BY-SA 4.0 | Globalsupport |
+| gwangju_kia_stadium_2026.jpg | https://commons.wikimedia.org/wiki/File:New_Gwangju_Baseball_Stadium.jpg | CC BY-SA 3.0 | Pioneerhj |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
