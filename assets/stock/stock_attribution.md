@@ -295,6 +295,15 @@
 | gwanghwamun_square_2026.jpg | https://commons.wikimedia.org/wiki/File:Gwanghwamun_Square_4.jpg | CC BY-SA 4.0 | Kallerna |
 | naver_library_2026.jpg | https://commons.wikimedia.org/wiki/File:Naver_Library.jpg | CC BY-SA 4.0 | Globalsupport |
 | gwangju_kia_stadium_2026.jpg | https://commons.wikimedia.org/wiki/File:New_Gwangju_Baseball_Stadium.jpg | CC BY-SA 3.0 | Pioneerhj |
+| imjingak_peace_bell_2026.jpg | https://commons.wikimedia.org/wiki/File:Peace_Bell_at_Imjingak,_Demilitarized_Zone_(DMZ),_South_Korea.jpg | CC BY-SA 4.0 | Lance Vanlewen |
+| janggi_tapgol_park_2026.jpg | https://commons.wikimedia.org/wiki/File:Janggi_near_Tapgol_Park,_Seoul.jpg | CC BY-SA 4.0 | Tristan Surtel |
+| candlestick_chart_mt5_2026.jpg | https://commons.wikimedia.org/wiki/File:Candlestick_Chart_in_MetaTrader_5.png | CC BY-SA 4.0 | Enivid |
+| samsung_dram_chip_macro_2026.jpg | https://commons.wikimedia.org/wiki/File:Samsung_K4B1G0846F-HCF-7529.jpg | CC BY-SA 4.0 | Raimond Spekking |
+| thaad_interceptor_launch_2026.jpg | https://commons.wikimedia.org/wiki/File:The_first_of_two_Terminal_High_Altitude_Area_Defense_(THAAD)_interceptors_is_launched_during_a_successful_intercept_test_-_US_Army.jpg | Public Domain | Missile Defense Agency/US Army |
+| prudhoe_bay_aerial_2026.jpg | https://commons.wikimedia.org/wiki/File:Prudhoe_Bay_aerial_FWS.jpg | Public Domain | US Fish and Wildlife Service |
+| seohaean_hipass_tollgate_2026.jpg | https://commons.wikimedia.org/wiki/File:Seohaean_Expwy_Daecheon_ICTG_Hipass_Only(Exit).jpg | CC BY-SA 4.0 | Jhcbs1019 |
+| seoul_rainy_street_night_2026.jpg | https://commons.wikimedia.org/wiki/File:Streets_of_Seoul_-_Flickr_-_Sergiy_Galyonkin.jpg | CC BY-SA 4.0 | Sergiy Galyonkin |
+| baseball_bat_glove_closeup_2026.jpg | https://commons.wikimedia.org/wiki/File:Baseball_bat_helmet_and_glove_mitt_(16967297036).jpg | CC BY 2.0 | Personal Creations |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
