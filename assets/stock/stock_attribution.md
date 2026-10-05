@@ -307,6 +307,15 @@
 | dorasan_station_ticket_office_2026.jpg | https://commons.wikimedia.org/wiki/File:Dorasan_Station_ticket_office.JPG | Public Domain | Abasaa |
 | seoul_national_assembly_02_2026.jpg | https://commons.wikimedia.org/wiki/File:Seoul-National.Assembly-02.jpg | CC BY 2.0 | frakorea |
 | nvidia_gpu_cluster_2026.jpg | https://commons.wikimedia.org/wiki/File:Tesla_NVIDIA_GPU_cluster_(3707257190).jpg | CC BY 2.0 | ChrisDag |
+| toyota_stadium_match_2026.jpg | https://commons.wikimedia.org/wiki/File:Nagoya_Grampus_game_in_Toyota_Stadium_100814.JPG | CC0 1.0 | Umako |
+| roc_capitol_2026.jpg | https://commons.wikimedia.org/wiki/File:Republic_of_Korea_capitol.jpg | CC BY-SA 4.0 | Cjb8293 |
+| toronto_exchange_floor_2026.jpg | https://commons.wikimedia.org/wiki/File:New_Toronto_Stock_Exchange_trading_floor.jpg | Public Domain | Alexandra Studios |
+| seoul_yongsan_gu_2026.jpg | https://commons.wikimedia.org/wiki/File:Seoul-Yongsan.gu-01.jpg | CC BY-SA 2.0 | m-louis |
+| hacker_binary_code_2026.jpg | https://commons.wikimedia.org/wiki/File:Cliche_Hacker_and_Binary_Code_(26946304530).jpg | CC0 1.0 | David Whelan |
+| optogenetics_mouse_2026.jpg | https://commons.wikimedia.org/wiki/File:Ontogenetics-mousehead-ImbededWithLightTransmitter.jpg | CC BY 2.5 | The New York Times |
+| naha_okinawa_skyline_2026.jpg | https://commons.wikimedia.org/wiki/File:Naha1.jpg | CC BY-SA 3.0 | Okajun |
+| jirisan_autumn_2026.jpg | https://commons.wikimedia.org/wiki/File:Korea-Mountain-Jirisan-07.jpg | CC BY 2.0 | eimoberg |
+| jamsil_stadium_interior_2026.jpg | https://commons.wikimedia.org/wiki/File:Interior_of_the_Jamsil_Baseball_Stadium.jpg | CC BY-SA 4.0 | Christophe95 |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
