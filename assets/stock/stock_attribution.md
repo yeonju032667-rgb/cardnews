@@ -316,6 +316,15 @@
 | naha_okinawa_skyline_2026.jpg | https://commons.wikimedia.org/wiki/File:Naha1.jpg | CC BY-SA 3.0 | Okajun |
 | jirisan_autumn_2026.jpg | https://commons.wikimedia.org/wiki/File:Korea-Mountain-Jirisan-07.jpg | CC BY 2.0 | eimoberg |
 | jamsil_stadium_interior_2026.jpg | https://commons.wikimedia.org/wiki/File:Interior_of_the_Jamsil_Baseball_Stadium.jpg | CC BY-SA 4.0 | Christophe95 |
+| govcomplex_gwacheon_02_2026.jpg | https://commons.wikimedia.org/wiki/File:Government_Complex_Gwacheon.jpg | CC BY-SA 4.0 | Fruitstream |
+| busan_container_terminal_2026.jpg | https://commons.wikimedia.org/wiki/File:Korea_busan_pusan_harbour_cargo_container_terminal.JPG | CC BY-SA 3.0 | Martin Pueschel |
+| metapolis_dongtan_2026.jpg | https://commons.wikimedia.org/wiki/File:Metapolis_Towers.jpg | CC BY-SA 4.0 | Matt872000 |
+| flu_vaccine_syringe_2026.jpg | https://commons.wikimedia.org/wiki/File:Comirnaty_Omicron_XBB.1.5_vial_and_influenza_vaccine_2023.jpg | CC BY-SA 4.0 | Whispyhistory |
+| hmma_alabama_front_2026.jpg | https://commons.wikimedia.org/wiki/File:HMMA_Front.jpg | CC BY-SA 4.0 | HyundaiAlabama |
+| masan_stadium_infield_2026.jpg | https://commons.wikimedia.org/wiki/File:Masan_Baseball_Stadium_infield.jpg | CC0 1.0 | Choi2451 |
+| naejangsan_pavilion_2026.jpg | https://commons.wikimedia.org/wiki/File:Naejangsan_Pavilion_1.jpg | CC BY-SA 3.0 | Tung Thanh Dang |
+| nyfed_building_2026.jpg | https://commons.wikimedia.org/wiki/File:Federal_Reserve_Bank_of_New_York_Building_005.jpg | CC BY 4.0 | Kidfly182 |
+| korea_police_hq_2026.jpg | https://commons.wikimedia.org/wiki/File:Korean_National_Police_Agency_Building01.jpg | CC BY 3.0 | User:G43 |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
