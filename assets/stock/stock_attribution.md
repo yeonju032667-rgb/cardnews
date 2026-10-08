@@ -325,6 +325,15 @@
 | naejangsan_pavilion_2026.jpg | https://commons.wikimedia.org/wiki/File:Naejangsan_Pavilion_1.jpg | CC BY-SA 3.0 | Tung Thanh Dang |
 | nyfed_building_2026.jpg | https://commons.wikimedia.org/wiki/File:Federal_Reserve_Bank_of_New_York_Building_005.jpg | CC BY 4.0 | Kidfly182 |
 | korea_police_hq_2026.jpg | https://commons.wikimedia.org/wiki/File:Korean_National_Police_Agency_Building01.jpg | CC BY 3.0 | User:G43 |
+| supreme_court_korea_2020_2026.jpg | https://commons.wikimedia.org/wiki/File:Supreme_Court_of_Korea_(2020).jpg | CC BY 4.0 | Seoul Institute |
+| wafertraksystem_2026.jpg | https://commons.wikimedia.org/wiki/File:Wafertraksystem.jpg | CC BY-SA 3.0 | Alison Chaiken |
+| hipark_ilsan_2026.jpg | https://commons.wikimedia.org/wiki/File:Hipark_city_ILSan_-_panoramio.jpg | CC BY 3.0 | kykoh |
+| samsung_heavy_geoje_2026.jpg | https://commons.wikimedia.org/wiki/File:Samsung_Heavy_Industries_20220908_1.jpg | CC BY-SA 4.0 | Asfreeas |
+| frost_field_2026.jpg | https://commons.wikimedia.org/wiki/File:Frost_on_field.jpg | Public Domain | Rosendahl |
+| busan_eomgungdong_apt_2026.jpg | https://commons.wikimedia.org/wiki/File:Apartment_blocks_in_Eomgung-dong_of_Busan,_Korea-01.jpg | CC BY-SA 2.0 | Samuel Orchard |
+| great_hall_people_beijing_2026.jpg | https://commons.wikimedia.org/wiki/File:South_facade_of_Great_Hall_of_the_People,_Beijing.jpg | CC BY-SA 3.0 | Daniel Case |
+| bok_headquarters_2026.jpg | https://commons.wikimedia.org/wiki/File:%ED%95%9C%EA%B5%AD%EC%9D%80%ED%96%89_%EB%B3%B8%EC%A0%90_-_panoramio.jpg | CC BY 3.0 | 우한길 |
+| daegu_samsung_lions_night_2026.jpg | https://commons.wikimedia.org/wiki/File:Daegu_Samsung_Lions_Park_Nightscape.jpg | CC BY-SA 3.0 | 한림 |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
