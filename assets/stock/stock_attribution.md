@@ -334,6 +334,15 @@
 | great_hall_people_beijing_2026.jpg | https://commons.wikimedia.org/wiki/File:South_facade_of_Great_Hall_of_the_People,_Beijing.jpg | CC BY-SA 3.0 | Daniel Case |
 | bok_headquarters_2026.jpg | https://commons.wikimedia.org/wiki/File:%ED%95%9C%EA%B5%AD%EC%9D%80%ED%96%89_%EB%B3%B8%EC%A0%90_-_panoramio.jpg | CC BY 3.0 | 우한길 |
 | daegu_samsung_lions_night_2026.jpg | https://commons.wikimedia.org/wiki/File:Daegu_Samsung_Lions_Park_Nightscape.jpg | CC BY-SA 3.0 | 한림 |
+| hunminjeongeum_haerye_cover_2026.jpg | https://commons.wikimedia.org/wiki/File:Hunminjeongeum_Haerye_01_(front_cover).jpg | Public Domain | Government of Joseon |
+| frankfurt_exchange_floor_2026.jpg | https://commons.wikimedia.org/wiki/File:Frankfurt_Stock_Exchange_(Ank_Kumar)_03.jpg | CC BY-SA 4.0 | Ank Kumar |
+| posco_pohang_panorama_2026.jpg | https://commons.wikimedia.org/wiki/File:포항공장_전경.jpg | CC BY-SA 3.0 | POSCO TMC |
+| daechi_dongbo_centreville_2026.jpg | https://commons.wikimedia.org/wiki/File:Daechi_Dongbo_Centreville_Apartment_Complex_1.jpg | CC BY-SA 4.0 | Kallerna |
+| chiaksan_autumn_2026.jpg | https://commons.wikimedia.org/wiki/File:Autumn_in_Chiak_Mountain.jpg | CC BY-SA 3.0 | Sohyeon Bak |
+| naju_police_station_2026.jpg | https://commons.wikimedia.org/wiki/File:Naju_Police_Station.JPG | CC BY-SA 4.0 | Hyolee2 |
+| suwon_kt_wiz_park_sign_2026.jpg | https://commons.wikimedia.org/wiki/File:Suwon_kt_wiz_Park.jpg | CC BY 4.0 | Nt |
+| nobel_peace_center_oslo_2026.jpg | https://commons.wikimedia.org/wiki/File:Nobel_Peace_Center_20180729.jpg | CC BY-SA 4.0 | Suicasmo |
+| snu_hospital_2026.jpg | https://commons.wikimedia.org/wiki/File:Seoulunivhospital.jpg | CC BY 4.0 | Kimhs5400 |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
