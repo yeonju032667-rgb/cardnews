@@ -343,6 +343,15 @@
 | suwon_kt_wiz_park_sign_2026.jpg | https://commons.wikimedia.org/wiki/File:Suwon_kt_wiz_Park.jpg | CC BY 4.0 | Nt |
 | nobel_peace_center_oslo_2026.jpg | https://commons.wikimedia.org/wiki/File:Nobel_Peace_Center_20180729.jpg | CC BY-SA 4.0 | Suicasmo |
 | snu_hospital_2026.jpg | https://commons.wikimedia.org/wiki/File:Seoulunivhospital.jpg | CC BY 4.0 | Kimhs5400 |
+| seoul_national_assembly_01_2026.jpg | https://commons.wikimedia.org/wiki/File:Seoul-National.Assembly-01.jpg | CC BY 2.0 | frakorea |
+| us_b2_visa_1994_2026.jpg | https://commons.wikimedia.org/wiki/File:US_B-2_Indefinite_Visa_1994.jpg | Public Domain | US State Department |
+| knoc_sk_gas_station_2026.jpg | https://commons.wikimedia.org/wiki/File:Gas_Station_machine_(Korea_National_Oil_Corporation_;_SK).jpg | CC BY-SA 3.0 | Roadgo |
+| amd_fiji_hbm_package_2026.jpg | https://commons.wikimedia.org/wiki/File:AMD_Fiji_GPU_package_with_GPU,_HBM_memory_and_interposer.jpg | CC BY-SA 4.0 | C. Spille |
+| lng_carrier_dsme_2026.jpg | https://commons.wikimedia.org/wiki/File:LNG_Carrier_DSME.jpg | Public Domain | Towel401 |
+| typhoon_hagibis_modis_2026.jpg | https://commons.wikimedia.org/wiki/File:Typhoon_Hagibis_off_Japan_(MODIS_2019-10-12).jpg | Public Domain | NASA MODIS Land Rapid Response Team |
+| kezar_stadium_stands_2026.jpg | https://commons.wikimedia.org/wiki/File:Kezar_Stadium_(2342736638).jpg | CC BY 2.0 | Ashleigh Nushawg |
+| yonsei_underwood_hall_2026.jpg | https://commons.wikimedia.org/wiki/File:Yonsei_University_Underwood_Hall.jpg | CC BY-SA 3.0 | Pioneerhj |
+| konserthuset_stockholm_2026.jpg | https://commons.wikimedia.org/wiki/File:Konserthuset_Stockholm_(Stockholm_Concert_Hall).jpg | CC BY-SA 4.0 | Karen Zhou |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
