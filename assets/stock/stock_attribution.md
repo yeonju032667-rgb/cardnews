@@ -352,6 +352,15 @@
 | kezar_stadium_stands_2026.jpg | https://commons.wikimedia.org/wiki/File:Kezar_Stadium_(2342736638).jpg | CC BY 2.0 | Ashleigh Nushawg |
 | yonsei_underwood_hall_2026.jpg | https://commons.wikimedia.org/wiki/File:Yonsei_University_Underwood_Hall.jpg | CC BY-SA 3.0 | Pioneerhj |
 | konserthuset_stockholm_2026.jpg | https://commons.wikimedia.org/wiki/File:Konserthuset_Stockholm_(Stockholm_Concert_Hall).jpg | CC BY-SA 4.0 | Karen Zhou |
+| sejong_govcomplex_motie_2026.jpg | https://commons.wikimedia.org/wiki/File:Government_Complex_Sejong_20190611_08.jpg | CC BY-SA 3.0 | Youngjin |
+| busan_pier8_1998_2026.jpg | https://commons.wikimedia.org/wiki/File:An_aerial_view_of_Pier_8,_Port_of_Pusan,_1998.jpg | CC BY 2.0 | UNC-CFC-USFK (Flickr) |
+| hyundai_ulsan_shipyard_2023_2026.jpg | https://commons.wikimedia.org/wiki/File:Hyundai_Heavy_Industries_Ulsan_Shipyard_from_Jujeon_Beacon_Mound_-_2023-07-24.jpg | CC0 | Wvdp |
+| anyangcheon_mokdong_hyperion_2026.jpg | https://commons.wikimedia.org/wiki/File:Anyangcheon_Willow_Trees.jpg | CC BY-SA 3.0 | Ox1997cow |
+| woraksan_autumn_2026.jpg | https://commons.wikimedia.org/wiki/File:National_Park_Mt._Wolaksan.jpg | CC BY-SA 4.0 | Ksw6655 |
+| computersicherheit_padlock_2026.jpg | https://commons.wikimedia.org/wiki/File:Computersicherheit.jpg | CC BY-SA 3.0 | Ralf Roletschek |
+| severance_hospital_2018_2026.jpg | https://commons.wikimedia.org/wiki/File:Sev2018.jpg | CC BY-SA 4.0 | Bak1999 |
+| doosan_lg_twins_match_2026.jpg | https://commons.wikimedia.org/wiki/File:Doosan_Bears_vs_LG_Twins_(1).jpg | CC BY-SA 4.0 | Christophe95 |
+| cma_cgm_kerguelen_lehavre_2026.jpg | https://commons.wikimedia.org/wiki/File:CMA_CGM_Kerguelen,_Le_Havre,_2016_(2).jpg | CC BY-SA 4.0 | Philippe Alès |
 
 ## Failed (no local file — candidates 404'd or were rate-limited on every retry)
 - sports_baseball (attempted: Jamsil Baseball Stadium Seoul)
